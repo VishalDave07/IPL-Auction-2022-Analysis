@@ -7,12 +7,12 @@ The IPL 2022 Mega Player auction have featured a total of 600 players who were s
 Content
 The dataset includes Data of all sold and unsold players.
 
-Data Columns:
-Index Number
-Player Name
-Base Price
-Type of the player
-Total Cost in Cr Indian Rupees
-Total Cost in USD
-Team of the Player in 2021
-Team of the Player in 2022
+- Data Columns:
+- Index Number
+- Player Name
+- Base Price
+- Type of the player
+- Total Cost in Cr Indian Rupees
+- Total Cost in USD
+- Team of the Player in 2021
+- Team of the Player in 2022
